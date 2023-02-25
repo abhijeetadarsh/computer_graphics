@@ -63,9 +63,9 @@ void bresenhamCircleGeneration(int R){
         }
     }
 }
-
 int main()
 {
     bresenhamCircleGeneration(8);
+    cout << "😋";
     return 0;
 }

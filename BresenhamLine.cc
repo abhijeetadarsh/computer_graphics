@@ -32,6 +32,6 @@ void bresenhamLineGeneration(int x1,int y1,int x2,int y2){
 
 int main()
 {
-    bresenhamLineGeneration(0,0,5,5);
+    bresenhamLineGeneration(3,7,8,10);
     return 0;
 }
